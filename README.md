@@ -27,7 +27,7 @@ The architecture is a **two-view Vision Transformer (ViT)** encoder fused via **
 
 ## 🧱 Architecture
 
-![Architecture Diagram](Images/method_schematic.png)
+![Architecture Diagram](method_schematic.png)
 
 ---
 
